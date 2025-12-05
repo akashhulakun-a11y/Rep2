@@ -5,4 +5,4 @@ if temperature >= 30:
 elif temperature >= 20:
     print("Weather is Normal.")
 else:
-    print("Weather is Cold!")
+    print("Weather is COLD!")
